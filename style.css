@@ -1,0 +1,33 @@
+.rep_name{
+    font-size: 3em;
+    border-bottom: solid black;
+    padding: .25em;
+    
+
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    flex-wrap: wrap;
+    margin: 3em;
+    text-align: center;
+}
+
+.list{
+    list-style-position: inside;
+    text-align: center;
+}
+
+.rep_info{
+    border: solid black;
+    margin-top: 1em;
+    padding: 1em;
+    background-color: cadetblue;
+}
+
+.committee_info{
+    border: solid black;
+    margin-top: 1em;
+    padding: 1em;
+    background-color: khaki;
+}
